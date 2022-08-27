@@ -1,5 +1,6 @@
 a, input, textarea {
   display: block;
+  color: aliceblue;
 }
 
 textarea {
@@ -8,4 +9,10 @@ textarea {
   outline: 0;
   padding: 0;
   width: 100%;
+  color: aliceblue;
+}
+
+body {
+  background-color: black;
+  color: aliceblue;
 }
